@@ -16,6 +16,14 @@ redirect_from:
 
 I am a data scientist and researcher focused on applying machine learning and advanced data analytics to solve real-world problems in energy systems and resource management. My work involves developing scalable AI models, predictive tools, and optimization frameworks to improve efficiency, reliability, and sustainability in critical infrastructure.
 
+--- 
+
+### **🖥️ Tech Stack** 
+Python (Numpy, Pandas), SQL, C++, Java **|** ML/DL Framework (Scikit-Learn, TensorFlow, OpenCV) **|** Data Analytics and Visualization (Matplotlib, PowerBI, Tableau) **|** Big Data Technologies (Hadoop, Spark) | Cloud (AWS)
+
+### **💡 Expertise**  
+Advanced data analytics **|** AI-driven Techniques **|** Machine Learning Modeling **|** Energy Data Management.
+
 ---
 
 ### **🎓 Education**
@@ -25,26 +33,6 @@ I am a data scientist and researcher focused on applying machine learning and ad
     - Information Technology, Leeds Beckett University, UK
     - Computer Science and Engineering, Luleå University of Technology, Sweden
 - **BSc** in Computer Engineering (Cum Laude, Silver Medalist)
-
----
-
-### **🖥️ Tech Stack**
-
-- **Programming Languages:** Python, SQL, C++, Java
-- **ML/DL Frameworks:** TensorFlow, PyTorch, Scikit-learn
-- **Data Analytics and Visualization:** Pandas, NumPy, Matplotlib, Seaborn, Tableau
-- **Big Data Technologies:** Hadoop, Spark
-- **Cloud Platforms:** AWS
-
----
-
-### **💡 Expertise**
-
-- Advanced Data Analytics
-- AI-Driven Techniques
-- Machine Learning Modeling
-- Energy Data Management
-
 
 ---
 

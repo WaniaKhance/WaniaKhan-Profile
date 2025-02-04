@@ -11,7 +11,10 @@ redirect_from:
 
 **🌍  Transforming Data into Actionable Insights for Smart Energy Systems**
 
-🎓 **MSc** in Green Networking and Cloud Computing (Fully Funded by EU)
+🎓 **Erasmus Mundus Joint Masters Degree** (Fully Funded) with specializations in:
+- Green Networking, University of Lorraine, France 
+- Information Technology, Leeds Beckett University, UK
+- Computer Science and Engineering, Lulea University of Technology, Sweden
 
 🎓 **BSc** in Computer Engineering (Cum Laude, Silver Medalist)
 
@@ -19,15 +22,25 @@ redirect_from:
 
 💡 **Expertise** : Advanced data analytics, AI-driven Techniques, Machine Learning Modeling, Energy Data Management.
 
+**Introduction**
+
+I am a data scientist and researcher focused on applying machine learning, and advanced data analytics to solve real-world problems in energy systems and resource management. My work involves developing scalable AI models, predictive tools, and optimization frameworks to improve efficiency, reliability, and sustainability in critical infrastructure.
+
+🚀 **Research Interests**
+
+- Energy Systems: Leveraging large-scale data management and advanced analytics to enhance system efficiency and reliability.
+- Predictive Analytics: Building tools for resource utilization forecasting and energy consumption analysis.
+- Data-Driven Decision-Making: Leveraging exploratory data analysis to uncover insights for sustainable energy planning.
+
 🔧 **Key Contributions** :
 
-- Developed an optimization framework to enhance grid efficiency with Python advanced optimization packages, enabling smarter energy distribution for households.
-- Created scalable AI models to estimate voltage levels in low-voltage networks, improving reliability and reducing operational costs.
-- Designed predictive tools for data center resource utilization, ensuring efficient allocation of IT resources and minimizing waste.
-- Built time-series forecasting systems to analyze energy consumption patterns, aiding in sustainable energy planning and cost savings.
-- Conducted exploratory data analysis for large-scale datasets, uncovering actionable insights to drive evidence-based decision-making in energy management.
+- Developed optimization frameworks for smarter energy distribution in households.
+- Created AI models to estimate voltage levels, improving grid reliability.
+- Designed predictive tools for efficient data center resource allocation.
+- Built time-series forecasting systems for energy consumption analysis.
+- Conducted exploratory data analysis to drive evidence-based data center energy management.
 
-🚀 **Passionate About** :
+🌟 **Mission and Vision**
 
 - Leveraging AI and data science for sustainable energy solutions.
 - Bridging the gap between data science and real-world energy challenges.

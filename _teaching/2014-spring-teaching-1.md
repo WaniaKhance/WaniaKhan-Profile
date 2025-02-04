@@ -1,12 +1,12 @@
-#---
-title: "Teaching experience 1"
-collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
-#---
+---
+#title: "Teaching experience 1"
+#collection: teaching
+#type: "Undergraduate course"
+#permalink: /teaching/2014-spring-teaching-1
+#venue: "University 1, Department"
+#date: 2014-01-01
+#location: "City, Country"
+
 
 #This is a description of a teaching experience. You can use markdown like any other post.
 
@@ -28,3 +28,4 @@ As a Lab Instructor for the Distributed Systems course (TDA596), I played a key 
 - **Lab Sessions**: Conducting interactive lab sessions to help students implement distributed algorithms and protocols using modern tools and frameworks.
 - **Code Reviews**: Providing constructive feedback on student projects, ensuring adherence to best practices in software development and system design.
 - **Troubleshooting**: Supporting students in debugging and optimizing their distributed systems, addressing challenges related to scalability, consistency, and network communication.
+---

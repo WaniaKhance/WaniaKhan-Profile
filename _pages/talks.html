@@ -5,65 +5,61 @@ permalink: /talks/
 author_profile: true
 ---
 
-<h2>Talks and Presentations</h2>
-
 {% if site.talkmap_link == true %}
-<p style="text-decoration:underline;"><a href="/talkmap.html">See a map of all the places I've given a talk!</a></p>
+  <p style="text-decoration:underline;">
+    <a href="/talkmap.html">See a map of all the places I've given a talk!</a>
+  </p>
 {% endif %}
 
-<!-- Loop through talks in the 'talks' collection -->
+<section class="talk-details">
+  <h1>Seminars, Conferences and Workshops</h1>
+
+  <article>
+    <h2>1. SESBC Summer School, 2024</h2>
+    <h3>Chalmers University of Technology, Sweden</h3>
+    <p>💡 <strong>Intelligent Energy Data Management and Online decision-making</strong></p>
+    <ul>
+      <li>Presented a modular framework to optimize real-time energy management for households.</li>
+      <li>Leveraged Linear Programming and heuristics to reduce processing time while maintaining cost-optimal decisions for energy storage and grid sell-off.</li>
+      <li>Designed for scalability with potential for peer-to-peer energy trading and EV charging optimization.</li>
+    </ul>
+  </article>
+
+  <article>
+    <h2>2. Distributed Computing and System Seminar, 2023</h2>
+    <h3>Chalmers University of Technology, Sweden</h3>
+    <p>⚡️ <strong>Data Center Energy Management</strong></p>
+    <ul>
+      <li>Presented an EDA technique to process real-time energy data from data centers.</li>
+      <li>Implemented a Machine Learning framework for thermal classification of IT rooms.</li>
+      <li>Designed deep learning models to forecast utilization of computing resources.</li>
+    </ul>
+  </article>
+
+  <article>
+    <h2>3. ACM International Conference on Future Energy Systems, 2022</h2>
+    <h3>Virtual Event</h3>
+    <p>🌱 <strong>Exploratory Data Analysis for Data Center Energy Management</strong></p>
+    <ul>
+      <li>Analyzed datasets from ENEA Portici Data Center’s CRESCO 6 HPC cluster across various granularity levels.</li>
+      <li>Applied machine learning for feature selection and modeling to identify key energy efficiency factors.</li>
+      <li>Explored green strategies using renewable energy, efficient computing, and optimized cooling.</li>
+    </ul>
+  </article>
+
+  <article>
+    <h2>4. 6th IFAC Symposium on Telematics Applications, 2022</h2>
+    <h3>Nancy, France</h3>
+    <p><strong>Best Presentation Award 🏆</strong></p>
+    <p>🔋 <strong>Advanced Data Analytics Modelling for Evidence-Based Data Center Energy Management</strong></p>
+    <ul>
+      <li>Conducted advanced data analytics on the ENEA Portici Research Center’s High Performance Computing Cluster.</li>
+      <li>Performed comprehensive EDA, feature selection, and extraction using statistical and machine learning techniques.</li>
+      <li>Implemented deep learning and time-series forecasting to predict resource utilization and minimize energy waste.</li>
+    </ul>
+  </article>
+</section>
+
 {% for post in site.talks reversed %}
   {% include archive-single-talk.html %}
 {% endfor %}
-
-<!-- Add a new section for Seminars, Conferences, and Workshops -->
-<h3>Seminars, Conferences, and Workshops</h3>
-
-<!-- SESBC Summer School, 2024 -->
-<div class="talk-item">
-  <h4>SESBC Summer School, 2024</h4>
-  <strong>Venue:</strong> Chalmers University of Technology, Sweden<br>
-  <strong>Title:</strong> Intelligent Energy Data Management and Online Decision-making<br>
-  <ul>
-    <li>Presented a modular framework to optimize real-time energy management for households.</li>
-    <li>Leveraged Linear Programming and heuristics to reduce processing time by 10x while maintaining cost-optimal decisions for energy storage and grid sell-off.</li>
-    <li>Designed for scalability, with future applications in peer-to-peer energy trading and EV charging optimization.</li>
-  </ul>
-</div>
-
-<!-- Distributed Computing and System Seminar, 2023 -->
-<div class="talk-item">
-  <h4>Distributed Computing and System Seminar, 2023</h4>
-  <strong>Venue:</strong> Chalmers University of Technology, Sweden<br>
-  <strong>Title:</strong> Data Center Energy Management<br>
-  <ul>
-    <li>Presented EDA technique to process real-time energy data of Data Center (DC).</li>
-    <li>Implemented Machine Learning framework for thermal classification of DC IT rooms.</li>
-    <li>Designed deep learning models to forecast utilization of DC compute resources.</li>
-  </ul>
-</div>
-
-<!-- ACM International Conference on Future Energy Systems, 2022 -->
-<div class="talk-item">
-  <h4>ACM International Conference on Future Energy Systems, 2022</h4>
-  <strong>Venue:</strong> Virtual Event<br>
-  <strong>Title:</strong> Exploratory Data Analysis for Data Center Energy Management<br>
-  <ul>
-    <li>Analyzed ENEA Portici Data Center's CRESCO 6 HPC cluster datasets, examining multi-level heat generation and cooling performance.</li>
-    <li>Applied machine learning for feature selection and modeling to identify key data center energy efficiency factors.</li>
-    <li>Explored "greening" strategies through renewable energy, efficient computing, and optimized cooling to reduce environmental impact.</li>
-  </ul>
-</div>
-
-<!-- 6th IFAC Symposium on Telematics Applications, 2022 -->
-<div class="talk-item">
-  <h4>6th IFAC Symposium on Telematics Applications, 2022</h4>
-  <strong>Venue:</strong> Nancy, France<br>
-  <strong>Award:</strong> Best Presentation Award 🏆<br>
-  <strong>Title:</strong> Advanced Data Analytics Modelling for Evidence-Based Data Center Energy Management<br>
-  <ul>
-    <li>Conducted advanced data analytics on ENEA Portici Research Center's High Performance Computing Cluster, focusing on data center energy management.</li>
-    <li>Performed comprehensive EDA, feature selection, and extraction using statistical analysis and machine learning techniques on real-time big data.</li>
-    <li>Implemented deep learning and time-series forecasting for accurate prediction of resource utilization, energy consumption, and waste in the data center.</li>
-  </ul>
-</div>

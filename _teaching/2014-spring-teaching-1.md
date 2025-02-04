@@ -16,7 +16,9 @@ This is a description of a teaching experience. You can use markdown like any ot
 **Distributed Systems (TDA596)**
 
 **Position**: Lab Instructor  
+**Department**: Computer Science and Engineering  
 **University**: Chalmers University of Technology, Sweden  
+
 **Period I**: October 2023 – January 2024   
 **Period II**: October 2024 – January 2025  
 

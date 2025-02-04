@@ -9,7 +9,7 @@ redirect_from:
 
 ## **👩‍🎓 Wania Khan | Data Scientist & AI Researcher**
 
-**🌍 Transforming Data into Actionable Insights for Smart Energy Systems**
+**🎯 Transforming Data into Actionable Insights for Smart Energy Systems**
 
 
 ### **Introduction**

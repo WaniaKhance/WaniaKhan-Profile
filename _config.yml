@@ -24,7 +24,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "pic.jpg"
   name             : "Wania Khan"
   pronouns         : # example: "she/her"  
   bio              : "🎓 Computer Engineer, cum laude 🚀 Data Scientist 

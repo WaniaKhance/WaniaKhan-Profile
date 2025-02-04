@@ -6,7 +6,8 @@
 
 main:
   - title: "Publications"
-    url: https://scholar.google.com/citations?user=bhi_MKMAAAAJ&hl=en&authuser=1
+    url: /publications/ 
+    #https://scholar.google.com/citations?user=bhi_MKMAAAAJ&hl=en&authuser=1
 
   - title: "CV"
     url: /files/Resume.pdf

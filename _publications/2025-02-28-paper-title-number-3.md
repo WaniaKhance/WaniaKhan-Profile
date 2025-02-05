@@ -2,7 +2,7 @@
 title: "A Comparative Analysis of Machine Learning Models for a Scalable Electrical Model-Free Voltage Calculation Methodology"
 collection: publications
 category: conferences
-#permalink: /publication/2015-10-01-paper-title-number-3
+#permalink: /publication/2025-02-28-paper-title-number-3
 excerpt: 'This paper presents a methodology to capture the underlying relationships among historical smart meter data (P, Q, and V) and the corresponding low-voltage (LV) network. The research include a comprehensive analysis and comparison of three machine learning (ML) models: Random Forest Regression, XGBoost, and Artificial Neural Networks (ANN).'
 date: 2025-02-28
 venue: ': Ready for submission in a conference'

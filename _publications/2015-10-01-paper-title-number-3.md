@@ -4,7 +4,7 @@ collection: publications
 category: conferences
 #permalink: /publication/2015-10-01-paper-title-number-3
 excerpt: 'This paper presents a methodology to capture the underlying relationships among historical smart meter data (P, Q, and V) and the corresponding low-voltage (LV) network. The research include a comprehensive analysis and comparison of three machine learning (ML) models: Random Forest Regression, XGBoost, and Artificial Neural Networks (ANN).'
-date: 2025
+date: 2025-02
 venue: ': Ready for submission in a conference'
 #slidesurl: 'http://academicpages.github.io/files/slides3.pdf'
 #paperurl: 'Ready for submission'

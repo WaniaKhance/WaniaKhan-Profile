@@ -10,3 +10,5 @@ venue: ': Ready for submission in a conference'
 #paperurl: 'Ready for submission.'
 #citation: 'Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).'
 ---
+
+The proliferating energy data generation poses significant challenges across various energy applications. This study focuses on one such energy application: cost-optimization of single households. Households with limited computing capacity need an online decision-making process to efficiently utilize their renewable resources and effectively manage their energy data. This paper presents OPTAAS (Optimization as a Service), a framework designed to implement online decision-making for households to resolve optimization problems efficiently and in a timely manner.

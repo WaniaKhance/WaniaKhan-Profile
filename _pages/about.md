@@ -12,8 +12,6 @@ redirect_from:
 **🎯 Transforming Data into Actionable Insights for Smart Energy Systems**
 
 
-### **Introduction**
-
 I am a data scientist and researcher focused on applying machine learning and advanced data analytics to solve real-world problems in energy systems and resource management. My work involves developing scalable AI models, predictive tools, and optimization frameworks to improve efficiency, reliability, and sustainability in critical infrastructure.
 
 --- 

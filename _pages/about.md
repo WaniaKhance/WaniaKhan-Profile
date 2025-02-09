@@ -23,7 +23,8 @@ Python (Numpy, Pandas), SQL, C++, Java **|** ML/DL Framework (Scikit-Learn, Tens
 Advanced data analytics **|** AI-driven Techniques **|** Machine Learning Modeling **|** Energy Data Management.
 
 ### **🔬 Projects**
-To view my interesting projects, check out the link! <div>
+To view my interesting projects, check out the link! 
+<div>
   <a href="https://github.com/WaniaKhance?tab=repositories" style="display: inline-block; padding: 10px 20px; background-color: #4CAF50; color: white; text-decoration: none; border-radius: 5px;">
     Explore My Projects on GitHub 🚀
   </a>
